@@ -1,6 +1,5 @@
 <!-- ================= HEADER BANNER ================= -->
 <div align="center">
-  <!-- Opsional: Ganti src dengan "./banner.png" jika sudah upload banner kustom -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a8a,100:0f172a&height=180&section=header&text=OSWALD%20TITO&fontSize=54&fontColor=ffffff&fontAlignY=44&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Web%20Solutions&descAlignY=74&descSize=16" width="100%" />
 
   <br/>
@@ -13,9 +12,9 @@
   <!-- STATUS & METRIK RINGKAS -->
   <p>
     <img src="https://img.shields.io/badge/Status-Open%20for%20Projects-22c55e?style=flat-square&logo=github&logoColor=white" alt="Availability" />
-    <img src="https://komarev.com/ghpvc/?username=Thimoty-Os&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/Thimoty-Os?label=Followers&style=flat-square&color=1d4ed8" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/Thimoty-Os?affiliations=OWNER&label=Stars&style=flat-square&color=38bdf8" alt="Total Stars" />
+    <img src="https://komarev.com/ghpvc/?username=thimotyoswald-hash&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/thimotyoswald-hash?label=Followers&style=flat-square&color=1d4ed8" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/thimotyoswald-hash?affiliations=OWNER&label=Stars&style=flat-square&color=38bdf8" alt="Total Stars" />
   </p>
 </div>
 
@@ -60,8 +59,8 @@ const oswaldTito = {
 
 </td>
     <td width="40%" align="center" valign="middle">
-      <!-- Upload file gambar/GIF ke repo dengan nama coding.gif, atau ganti tag ini dengan kartu Streak di bawah -->
-      <img src="./coding.gif" width="100%" alt="Oswald Coding Workspace" />
+      <!-- Sudah diganti kartu Top Languages agar tidak kosong. Jika nanti upload gambar sendiri, ganti src dengan "./coding.gif" -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimotyoswald-hash&layout=donut&theme=tokyonight&border_color=1e3a8a" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -80,8 +79,8 @@ const oswaldTito = {
   <a href="mailto:thimotyoswald@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-thimotyoswald%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Thimoty-Os">
-    <img src="https://img.shields.io/badge/GitHub-Thimoty--Os-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/thimotyoswald-hash">
+    <img src="https://img.shields.io/badge/GitHub-thimotyoswald--hash-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -150,7 +149,7 @@ const oswaldTito = {
 | **WhatsApp** | `0895-3263-76726` | [Kirim Pesan ↗](https://wa.me/62895326376726) |
 | **Email** | `thimotyoswald@gmail.com` | [Kirim Email ↗](mailto:thimotyoswald@gmail.com) |
 | **Instagram** | `@oswald_smg` | [Lihat Profil ↗](https://www.instagram.com/oswald_smg/) |
-| **GitHub** | `Thimoty-Os` | [Lihat Repositori ↗](https://github.com/Thimoty-Os) |
+| **GitHub** | `thimotyoswald-hash` | [Lihat Repositori ↗](https://github.com/thimotyoswald-hash) |
 
 </details>
 
@@ -160,32 +159,32 @@ const oswaldTito = {
 
 <!-- 1. KARTU RINGKASAN PROFIL & 4 KARTU ANALITIK -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thimoty-Os&theme=tokyonight" width="98%" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thimotyoswald-hash&theme=tokyonight" width="98%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thimoty-Os&theme=tokyonight" width="48%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thimoty-Os&theme=tokyonight&utcOffset=7" width="48%" alt="Commits per Hour (WIB)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thimotyoswald-hash&theme=tokyonight" width="48%" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thimotyoswald-hash&theme=tokyonight&utcOffset=7" width="48%" alt="Commits per Hour (WIB)" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thimoty-Os&theme=tokyonight" width="48%" alt="GitHub Summary Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thimoty-Os&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thimotyoswald-hash&theme=tokyonight" width="48%" alt="GitHub Summary Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thimotyoswald-hash&theme=tokyonight" width="48%" alt="Top Languages by Commit" />
 </div>
 
 <br/>
 
 <!-- 2. STATISTIK UTAMA & CONTRIBUTION STREAK -->
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Thimoty-Os&show_icons=true&theme=tokyonight&border_color=1e3a8a&count_private=true" alt="GitHub Stats Card" />
-  <img height="175" src="https://streak-stats.demolab.com?user=Thimoty-Os&theme=tokyonight&border=1e3a8a&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=thimotyoswald-hash&show_icons=true&theme=tokyonight&border_color=1e3a8a&count_private=true" alt="GitHub Stats Card" />
+  <img height="175" src="https://streak-stats.demolab.com?user=thimotyoswald-hash&theme=tokyonight&border=1e3a8a&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- 3. GRAFIK AKTIVITAS KONTRIBUSI 30 HARI -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimoty-Os&theme=tokyo-night&area=true&line=3b82f6&point=38bdf8&area_color=1d4ed8&custom_title=Oswald's%20Contribution%20Activity" width="98%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thimotyoswald-hash&theme=tokyo-night&area=true&line=3b82f6&point=38bdf8&area_color=1d4ed8&custom_title=Oswald's%20Contribution%20Activity" width="98%" alt="Contribution Activity Graph" />
 </div>
 
 ---
@@ -193,8 +192,8 @@ const oswaldTito = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/Thimoty-Os">
-    <img src="https://github-profile-trophy.vercel.app/?username=Thimoty-Os&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=6" width="98%" alt="GitHub Trophies" />
+  <a href="https://github.com/thimotyoswald-hash">
+    <img src="https://github-profile-trophy.vercel.app/?username=thimotyoswald-hash&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=6" width="98%" alt="GitHub Trophies" />
   </a>
 </div>
 
