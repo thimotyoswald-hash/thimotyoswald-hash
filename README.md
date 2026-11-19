@@ -188,12 +188,12 @@ const oswaldTito = {
 
 ---
 
-### 🏆 GitHub Trophies
+### 🐍 Contribution Snake
 
 <div align="center">
-  <a href="https://github.com/thimotyoswald-hash">
-    <img src="https://github-profile-trophy.vercel.app/?username=thimotyoswald-hash&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=6" width="98%" alt="GitHub Trophies" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thimotyoswald-hash/thimotyoswald-hash/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thimotyoswald-hash/thimotyoswald-hash/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/thimotyoswald-hash/thimotyoswald-hash/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0d1117&height=90&section=footer" width="100%" />
