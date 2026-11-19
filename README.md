@@ -177,4 +177,25 @@ const oswaldTito = {
 
 <!-- 2. STATISTIK UTAMA & CONTRIBUTION STREAK -->
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Thimoty-Os&show_icons=true&theme=tokyonight&border_color=1e3a8a&count_private=true" alt="GitHub Stats Card
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Thimoty-Os&show_icons=true&theme=tokyonight&border_color=1e3a8a&count_private=true" alt="GitHub Stats Card" />
+  <img height="175" src="https://streak-stats.demolab.com?user=Thimoty-Os&theme=tokyonight&border=1e3a8a&ring=38bdf8&fire=3b82f6&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- 3. GRAFIK AKTIVITAS KONTRIBUSI 30 HARI -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thimoty-Os&theme=tokyo-night&area=true&line=3b82f6&point=38bdf8&area_color=1d4ed8&custom_title=Oswald's%20Contribution%20Activity" width="98%" alt="Contribution Activity Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/Thimoty-Os">
+    <img src="https://github-profile-trophy.vercel.app/?username=Thimoty-Os&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=6" width="98%" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a8a,100:0d1117&height=90&section=footer" width="100%" />
