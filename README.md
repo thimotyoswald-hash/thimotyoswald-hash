@@ -1,42 +1,37 @@
+<!-- BANNER ATAS: Bisa diganti dengan file gambar lokal seperti ./banner.png -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=210&section=header&text=Oswald%20Tito&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=62&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a8a,100:0f172a&height=170&section=header&text=OSWALD%20TITO&fontSize=52&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Web%20Engineer%20%7C%20Problem%20Solver&descAlignY=74&descSize=16" width="100%" />
 
-  <a href="https://github.com/Thimoty-Os">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%26+Problem+Solver;Building+Scalable+Apps+with+Next.js+%26+TypeScript;Open+for+Freelance+%26+Agency+Collaborations" alt="Typing SVG" />
+  <br/>
+
+  <!-- ANIMASI KETIKAN INTERAKTIF -->
+  <a href="https://wa.me/62895326376726?text=Halo%20Oswald%2C%20saya%20lihat%20profil%20GitHub%20kamu%20dan%20tertarik%20diskusi%20proyek">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Oswald+Tito+%E2%80%94+Full-Stack+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js+%7C+Express+%7C+Bun;Click+here+to+chat+for+Freelance+%26+Agency+Projects!" alt="Typing SVG" />
   </a>
-
-  <p>
-    <a href="https://wa.me/628XXXXXXXXXX">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://website-portofolio-kamu.com">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/username-linkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:emailkamu@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=Thimoty-Os&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
-### `whoami.ts`
+### 🎯 About Me
+
+<table width="100%">
+  <tr>
+    <td width="58%" valign="top">
 
 ```ts
-const oswald: SoftwareEngineer = {
-  role: "Full-Stack Software Engineer & Web Developer",
-  location: "Indonesia",
-  focus: ["Personal & Company Websites", "Full-Stack Web Apps", "Custom Software"],
-  currentStack: {
+const oswald = {
+  role: "Full-Stack Developer",
+  location: "Indonesia 🇮🇩",
+  building: [
+    "Scalable Web Applications",
+    "Personal & Company Websites",
+    "Custom Software Solutions"
+  ],
+  stack: {
     frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Bun"],
-    designAndDeploy: ["Figma", "Vercel", "Git"]
+    backend: ["Node.js", "Express", "Bun", "REST API"],
+    database: ["PostgreSQL", "MySQL", "MongoDB", "Prisma"],
+    tools: ["Figma", "Docker", "Git", "Vercel"]
   },
-  languages: ["Bahasa Indonesia", "English"],
-  openFor: "Freelance Projects & Agency Partnerships"
+  openFor: ["Freelance Projects", "Agency Partnerships"]
 };
