@@ -26,7 +26,7 @@
   <tr>
     <td width="58%" valign="top">
 
-```ts
+
 const oswaldTito = {
   name: "Oswald Tito",
   role: "Full-Stack Developer & Software Engineer",
@@ -51,7 +51,7 @@ const oswaldTito = {
   },
   openFor: ["Freelance Projects", "Agency Partnerships"]
 };
-```
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Developer Quote" />
