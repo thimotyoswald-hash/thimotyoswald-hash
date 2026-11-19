@@ -26,7 +26,7 @@
   <tr>
     <td width="58%" valign="top">
 
-
+```
 const oswaldTito = {
   name: "Oswald Tito",
   role: "Full-Stack Developer & Software Engineer",
@@ -65,7 +65,7 @@ const oswaldTito = {
     </td>
   </tr>
 </table>
-
+```
 ### 📲 Connect With Me
 
 <div align="center">
