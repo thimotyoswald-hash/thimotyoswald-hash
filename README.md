@@ -24,7 +24,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
 ```ts
 const oswaldTito = {
@@ -40,8 +40,8 @@ const oswaldTito = {
   ],
   stack: {
     frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Bun", "REST API"],
-    database: ["PostgreSQL", "MySQL", "MongoDB", "Prisma"],
+    backend: ["Node.js", "Express", "Bun", "Python", "PHP"],
+    mobileAndDb: ["Dart", "PostgreSQL", "MySQL", "MongoDB"],
     workflow: ["PRD Planning", "Figma UI/UX", "Git", "Vercel"]
   },
   contact: {
@@ -58,14 +58,13 @@ const oswaldTito = {
 </div>
 
 </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Sudah diganti kartu Top Languages agar tidak kosong. Jika nanti upload gambar sendiri, ganti src dengan "./coding.gif" -->
+    <td width="42%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=thimotyoswald-hash&show_icons=true&theme=tokyonight&border_color=1e3a8a&count_private=true" width="100%" alt="GitHub Stats" />
+      <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimotyoswald-hash&layout=donut&theme=tokyonight&border_color=1e3a8a" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
----
 
 ### 📲 Connect With Me
 
