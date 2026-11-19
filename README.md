@@ -52,7 +52,7 @@ const oswaldTito = {
   openFor: ["Freelance Projects", "Agency Partnerships"]
 };
 
-
+```
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Developer Quote" />
 </div>
@@ -61,11 +61,11 @@ const oswaldTito = {
     <td width="42%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=thimotyoswald-hash&show_icons=true&theme=tokyonight&border_color=1e3a8a&count_private=true" width="100%" alt="GitHub Stats" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimotyoswald-hash&layout=donut&theme=tokyonight&border_color=1e3a8a" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thimotyoswald-hash&layout=donut&theme=tokyonight&border_color=28301C" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
-```
+
 ### 📲 Connect With Me
 
 <div align="center">
